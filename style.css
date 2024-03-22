@@ -612,6 +612,10 @@ html,body{
         
         
     }
+
+    .heading-project p{
+        font-style: normal;
+    }
     
     .web1 .web-wrapper{
         width: 80vw;
@@ -657,6 +661,7 @@ html,body{
 
     .heading-project h5{
         font-size: 3vw;
+        font-style: normal;
     }
     
     
