@@ -615,6 +615,8 @@ html,body{
 
     .heading-project p{
         font-style: normal;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border: 2px solid red;
     }
     
     .web1 .web-wrapper{
@@ -649,6 +651,7 @@ html,body{
 
     .heading-project h4{
         font-size: 4vw;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     
